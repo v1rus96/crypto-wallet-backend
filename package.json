@@ -1,0 +1,22 @@
+{
+  "name": "wall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Firuz",
+  "license": "ISC",
+  "dependencies": {
+    "777": "^0.0.2",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "chmod": "^0.2.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "express": "^4.19.2",
+    "sudo": "^1.0.3",
+    "web3": "^4.7.0"
+  }
+}
